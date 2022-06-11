@@ -1,4 +1,4 @@
-# k-mean
+# k-means ( normal k-means , K-means++, Bisecting k-means)
 - src code have 5 packages 
 - package Data : file wine-clustering.csv 
 - package Model : class Point ( mean data Point ) , class Clust , every class have get/set function and some relate calculating functions .
